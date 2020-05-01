@@ -4,8 +4,8 @@
      <description> Mise en compatibilité des shape pour un import dans GéoMCE</description>
      <homepage>https://github.com/GeoMCE/GeoMCE/</homepage>
      <qgis_minimum_version>2.0</qgis_minimum_version>
-     <file_name>GeoMCEv0.7.zip</file_name>
+     <file_name>GeoMCE.zip</file_name>
      <author_name>DREAL_AuRA</author_name>
-     <download_url>https://github.com/GeoMCE/GeoMCE/releases/download/v0.7/GeoMCEv0.7.zip</download_url>
+     <download_url>https://github.com/GeoMCE/GeoMCE/releases/download/v0.1/GeoMCE.zip</download_url>
  </pyqgis_plugin>
 </plugins>
